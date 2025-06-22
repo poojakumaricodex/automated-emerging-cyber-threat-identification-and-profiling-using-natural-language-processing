@@ -86,4 +86,15 @@ Improve intent detection using POS tagging
 
 Build a real-time dashboard for live monitoring
 
+#Screenshots
 ![image](https://github.com/user-attachments/assets/d88d10bf-f006-4ce1-aa42-ab3c17e569c6)
+![image](https://github.com/user-attachments/assets/91540d02-8493-4370-84fb-d84fc13c05d5)
+![image](https://github.com/user-attachments/assets/a017f2eb-f35c-4a51-800a-2f0ab4df022d)
+![image](https://github.com/user-attachments/assets/c280506f-75a0-4fd9-a912-c0687e6d6931)
+![image](https://github.com/user-attachments/assets/d28da51e-45c3-4e37-beb8-3c70a7062383)
+![image](https://github.com/user-attachments/assets/3276947d-838b-4f23-8aff-75624de0468d)
+
+
+
+
+
